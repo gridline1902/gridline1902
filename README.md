@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gridline1902
 - 👀 I’m interested in ... Everything Programming
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Python, Javascript, ReactJS
 - 💞️ I’m looking to collaborate on ... cybersecurity projects, python projects, backend and frontend development.
 - 📫 How to reach me ... michaeljrfreeman@gmail.com
 
