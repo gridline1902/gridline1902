@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I am a full-stack web developer with expertise in Django, ReactJS, JavaScript, and Python. I have a passion for developing dynamic, responsive, and user-friendly web applications that provide seamless user experiences.
-
+Hello World
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/free_guy00) 
